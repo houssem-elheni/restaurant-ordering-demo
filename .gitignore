@@ -1,0 +1,9 @@
+# Firebase sensitive files (for both apps)
+**/lib/firebase_options.dart
+**/android/app/google-services.json
+**/ios/Runner/GoogleService-Info.plist
+**/serviceAccountKey.json
+
+# Local artifacts
+snapshots/
+**/snapshots/
