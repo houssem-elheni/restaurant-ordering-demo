@@ -3,4 +3,8 @@
 **/android/app/google-services.json
 **/ios/Runner/GoogleService-Info.plist
 **/serviceAccountKey.json
-
+# Allow snapshots folders
+!resto_prof_customer/snapshots/
+!resto_prof_restaurant/snapshots/
+!resto_prof_customer/snapshots/**
+!resto_prof_restaurant/snapshots/**
