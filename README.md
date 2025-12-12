@@ -27,3 +27,12 @@ This project is a finished demo to showcase:
 - Real-time multi-client communication
 - Practical use of Firebase
 - Clean, simple UX in French for a fast-food style restaurant.
+
+## Screenshots
+
+### Customer App
+See: `resto_prof_customer/snapshots/`
+
+### Restaurant App
+See: `resto_prof_restaurant/snapshots/`
+
