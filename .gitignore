@@ -4,6 +4,3 @@
 **/ios/Runner/GoogleService-Info.plist
 **/serviceAccountKey.json
 
-# Local artifacts
-snapshots/
-**/snapshots/
